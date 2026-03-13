@@ -52,7 +52,7 @@ export function Header() {
               className="text-xl tracking-[0.25em] uppercase text-gray-900 dark:text-white"
               style={{ fontFamily: 'Cormorant Garamond, serif', fontWeight: 600 }}
             >
-              Chrono <span className="text-[#c9a84c]">Luxe</span>
+              Soat <span className="text-[#c9a84c]">Do'kon</span>
             </span>
           </Link>
 
